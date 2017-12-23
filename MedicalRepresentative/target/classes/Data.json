@@ -1,0 +1,21 @@
+{
+    "representativeFirstName" : "AJAY KUMAR",
+    "representativeLastName" : "GAUTAM",
+    "companyId" : "123",
+    "representativeEmployeeId" : "10012155",
+    "representativeAddress" : "PLOT NO 38 KH 83 25 FLAT NO 303 SUKHBIR NAGAR NEAR GSLI NO 4 LALITAMBA 110081",
+    "representativeCountry" : "IN",
+    "representativeState" : "MH",
+    "representativeCity" : "Pune",
+    "representativePinCode" : "110081",
+    "drugList": [
+        {
+            "name": "dfgdgf",
+            "description": "dsfgdfg",
+            "about": "adfg",
+            "symptoms": "sdfgsdfg",
+            "moleculeName": "sdfhsg",
+            "productCode": "sdadfs"
+        }
+    ]
+}
